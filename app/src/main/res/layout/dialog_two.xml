@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/dialog_two"
+        android:gravity="right"
+        android:padding="25dp"
+        android:background="#2a00ff"
+        android:textColor="#333"
+        android:textSize="18sp"
+        android:text="没有灰色背景的dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
